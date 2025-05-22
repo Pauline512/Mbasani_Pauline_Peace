@@ -1,10 +1,9 @@
-# Simple Inventory Management Program
-
 # Sample stock list as a list of dictionaries
 stock = [
-    {"item": "Apples", "quantity": 50},
-    {"item": "Bananas", "quantity": 30},
-    {"item": "Oranges", "quantity": 20}
+    {"item": "Chargers", "quantity": 50},
+    {"item": "Speakers", "quantity": 30},
+    {"item": "Power banks", "quantity": 20},
+     {"item": "Earphones", "quantity": 20}
 ]
 
 # Function to display all stock items
